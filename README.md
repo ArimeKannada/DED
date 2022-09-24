@@ -1,9 +1,15 @@
 # DED
 exe file DED dictionary.
 
+
+INSTALLATION
+
 download DED.z01 and DED.zip in same same file.
 
 Extract DED.exe and run it (no need to install)
+
+
+Working
 
 Select language from which u have to find word
 
