@@ -4,7 +4,7 @@ exe file DED dictionary.
 
 INSTALLATION
 
-download DED.z01 and DED.zip in same same file.
+download DED.exe file from Releasea Download file.
 
 Extract DED.exe and run it (no need to install)
 
